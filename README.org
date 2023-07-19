@@ -1,0 +1,9 @@
+* cl-plplot
+
+A CFFI based interface to the PLplot scientific plotting library
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/HazenBabcock/cl-plplot.git |
+| commit  | 00a8a74                                           |
+| systems | cl-plplot                                         |
+|---------+---------------------------------------------------|
